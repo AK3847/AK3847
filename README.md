@@ -7,6 +7,7 @@
 
 - Commanding robots via Arduino & other micro-controllers to do amazing work
 - Currently diving into Machine Learning and Artificial Intelligence
+- Things I would not stop talking about: Tech, Anime, Movies & Philosophy
 
 
 ```javascript
