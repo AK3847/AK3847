@@ -9,7 +9,7 @@
 - Currently diving into Machine Learning and Artificial Intelligence
 - Things I would not stop talking about: Tech, Anime, Movies & Philosophy
 
-
+<img src="https://imgur.com/zsKVlgX.gif" width="30" height="35"/> More about me
 ```javascript
 const AK= {
    pronouns: "he"|"him",
