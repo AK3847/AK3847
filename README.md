@@ -22,8 +22,9 @@ const AK= {
 }
 ```
 
-<h2>Badges</h2>
+## Badges
 [![An image of @ak3847's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ak3847)](https://holopin.io/@ak3847)
+
 <h2>Profiles:</h2>
 <div>
   <p align="left">
