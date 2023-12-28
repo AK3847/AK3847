@@ -7,6 +7,7 @@
 
 - Commanding robots via Arduino & other micro-controllers to do amazing work
 - Currently diving into Machine Learning and Artificial Intelligence
+- Creative Coding via html,js and css.
 - Things I would not stop talking about: Tech, Anime, Movies & Philosophy
 
 ## <img src="https://imgur.com/zsKVlgX.gif" width="40" height="40"> More about me...
@@ -15,10 +16,10 @@ const AK= {
    pronouns: "he"|"him",
    SoftwareVersion: 19.0
    Languages: [C,C++,Python,Java,HTML,CSS,Javascript],
-   Domains: [Robotics-Arduino, Machine Learning],
+   Domains: [Robotics-Arduino, Machine Learning,Front-End Web],
    techCommunities:{
                    TechLead: "GDSC-SCET"
-                   }
+   }
 }
 ```
 
