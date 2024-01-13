@@ -16,9 +16,10 @@ const AK= {
    pronouns: "he"|"him",
    SoftwareVersion: 19.0
    Languages: [C,C++,Python,Java,HTML,CSS,Javascript],
-   Domains: [Robotics-Arduino, Machine Learning,Front-End Web],
+   Domains: [Machine Learning, Artificial Intellgience, Front-End Web,Robotics-Arduino],
    techCommunities:{
                    TechLead: "GDSC-SCET"
+                   Lead: "IOT Club-SCET"
    }
 }
 ```
