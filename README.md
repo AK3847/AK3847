@@ -8,7 +8,7 @@
 - Currently diving into Machine Learning and Artificial Intelligence
 - Creative Coding via html,js and css.
 - Commanding robots via Arduino & other micro-controllers to do amazing work
-- Things I would not stop talking about: Tech, Anime, Movies & Philosophy
+- Things I would not stop talking about: Tech, Anime, Movies & Philosophy.
 
 ## <img src="https://imgur.com/zsKVlgX.gif" width="40" height="40"> More about me...
 ```javascript
