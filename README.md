@@ -18,7 +18,7 @@ const AK= {
    Languages: [C,C++,Python,Java,HTML,CSS,Javascript],
    Domains: [Machine Learning, Artificial Intellgience, Front-End Web,Robotics-Arduino],
    techCommunities:{
-                   TechLead: "GDSC-SCET"
+                   TechLead: "GDSC-SCET",
                    Lead: "IOT Club-SCET"
    }
 }
