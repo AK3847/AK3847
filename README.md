@@ -30,9 +30,8 @@ const AK= {
 <h2>Profiles:</h2>
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/abdul-kadir-14164a22b/" target="_blank"><img src="https://imgur.com/IEyFbds.png"  alt="linkedin"  swidth="50" height="50"/></a>
+    <a href="https://www.linkedin.com/in/okabdul/" target="_blank"><img src="https://imgur.com/IEyFbds.png"  alt="linkedin"  swidth="50" height="50"/></a>
     <a href="https://codeforces.com/profile/AbdulK_69" target="_blank"><img src="https://imgur.com/jCw6ult.png" alt="codeforces" width="50" height="50"/></a>
     <a href="https://www.codechef.com/users/abdulk_69" target="_blank"><img src="https://imgur.com/suouMG2.png" alt="codechef" width="50" height="50"/></a>
-    <a href="https://www.instagram.com/abdul_kadir87633/" target="_blank"><img src="https://imgur.com/113096A.png" alt="insta" width="55" height="55"/> </a>
   </p>
 </div>
