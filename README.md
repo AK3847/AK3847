@@ -1,13 +1,13 @@
 <h1><img src="https://imgur.com/N7t48Pt.gif" width="50"/>Hey, This is Abdul Kadir!<img src="https://imgur.com/N7t48Pt.gif" width="50"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&duration=4000&pause=800&color=337CCF&center=false&vCenter=false&width=1000&lines=Immersing+myself+into+AI+%26+ML+;Competitive+Coding;Commanding+Robots" alt="Typing SVG"   align="left"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=34&duration=4000&pause=800&color=337CCF&center=false&vCenter=false&width=1000&lines=AI+%26+ML+Nerd;Competitive+Coding" alt="Typing SVG"   align="left"/></a>
 <img src="https://imgur.com/R1mRicQ.gif" width=1200 align="center">
 <p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AK3847&label=Profile%20views&color=0e75b6&style=flat" alt="AK3847" /> 
 </p>
 
-- Currently diving into Machine Learning and Artificial Intelligence
-- Creative Coding via html,js and css.
-- Commanding robots via Arduino & other micro-controllers to do amazing work
+- A big nerd about Machine Learning & GenerativeAI.
+- Love web design & animation.
+- Sometimes do low-level programming.
 - Things I would not stop talking about: Tech, Anime, Movies & Philosophy.
 
 ## <img src="https://imgur.com/zsKVlgX.gif" width="40" height="40"> More about me...
