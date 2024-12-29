@@ -19,11 +19,8 @@ const AK= {
    Domains: [GenerativeAI - Transformers/Diffusers]
 }
 ```
-> Currently working on:
-   >>  making a ML library from scratch <em>[Check it out!](https://github.com/AK3847/Bishograd)</em>
-   >
-   >>  building a GPT from scratch 
-> 
+> Currently working my way through Large Language models ;), you can hit me up if you want to have a chit-chat around them!
+
 ## Badges
 [![An image of @ak3847's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ak3847)](https://holopin.io/@ak3847)
 
