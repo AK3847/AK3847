@@ -11,13 +11,15 @@
 - Things I would not stop talking about: Tech, Anime, Movies & Philosophy.
 
 ## <img src="https://imgur.com/zsKVlgX.gif" width="40" height="40"> More about me...
-```javascript
-const AK= {
-   pronouns: "he"|"him",
-   SoftwareVersion: 20.0,
-   Languages: [C,C++,Python,Java,HTML,CSS,Javascript],
-   Domains: [GenerativeAI - Transformers/Diffusers]
-}
+```bash
+Name: Abdul Kadir Nalawala
+Pronouns: <he|him>
+Age: 21
+Previous Role: GenAI Intern
+(Current) Research Interest: Reasoning & Scaling of Large Language Models
+Programming languages: Python, C, C++ 
+Frameworks & Libraries: Numpy, Pandas, PyTorch, Transformers
+Additional Developer Tools: Git, GitHub, Visual Studio Code, HuggingFace, Google Colab, uv
 ```
 > Currently working my way through Large Language models ;), you can hit me up if you want to have a chit-chat around them!
 
